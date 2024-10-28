@@ -1,6 +1,8 @@
 👋 Hi, I'm Knell!  
 
-I'm a Software Developer based in Germany 🇩🇪.  I'm passionate about automation - saving time, ensuring reproducibility, and making sure things run smoothly (even if seeing my old code sometimes makes me cringe a bit 😅). I believe in keeping things simple and automating everything that can be automated! ⚙️
+I'm a Software Developer based in Germany 🇩🇪.  I'm passionate about automation - saving time, ensuring reproducibility, and making sure things run smoothly (even if seeing my old code sometimes makes me cringe a bit 😅). 
+
+I believe in keeping things simple and automating everything that can be automated! ⚙️
 
 **Here's a bit more about me:**
 
@@ -16,5 +18,6 @@ I'm a Software Developer based in Germany 🇩🇪.  I'm passionate about automa
 *   **LinkedIn:** [knelldev](https://www.linkedin.com/in/knelldev)
 *   **GitLab:** [knelldev](https://gitlab.com/knelldev)
 *   **Docker Hub:** [knelldev](https://hub.docker.com/u/knelldev)
+*   **Ansible Galaxy:** [knelldev](https://galaxy.ansible.com/ui/namespaces/knelldev/)
 
 **Website:** TBD 🚧
